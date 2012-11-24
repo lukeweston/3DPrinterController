@@ -10634,7 +10634,7 @@ there are no connections for power to the infrared LEDs.</text>
 <segment>
 <pinref part="R3" gate="G$1" pin="1"/>
 <wire x1="149.86" y1="193.04" x2="165.1" y2="193.04" width="0.1524" layer="91"/>
-<label x="152.4" y="193.04" size="1.27" layer="95"/>
+<label x="152.4" y="193.294" size="1.27" layer="95"/>
 </segment>
 </net>
 <net name="FAN2_GATE" class="0">
@@ -10646,7 +10646,7 @@ there are no connections for power to the infrared LEDs.</text>
 <segment>
 <pinref part="R7" gate="G$1" pin="1"/>
 <wire x1="149.86" y1="167.64" x2="165.1" y2="167.64" width="0.1524" layer="91"/>
-<label x="152.4" y="167.64" size="1.27" layer="95"/>
+<label x="152.4" y="167.894" size="1.27" layer="95"/>
 </segment>
 </net>
 <net name="!TC1_CS" class="0">
