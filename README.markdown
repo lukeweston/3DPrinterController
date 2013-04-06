@@ -10,4 +10,4 @@ c) Stepper motor drivers.
 
 Example image of 5-channel stepper motor controller board:   
 
-![](https://github.com/lukeweston/5ChannelStepperDriver/raw/master/5ChannelStepperDriver-preview.png)
+![](https://github.com/lukeweston/3DPrinterController/raw/master/5ChannelStepperDriver-preview.png)
